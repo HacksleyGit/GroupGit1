@@ -1,0 +1,14 @@
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.exe
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.deps.json
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.runtimeconfig.json
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.runtimeconfig.dev.json
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.dll
+E:\GitRep\GitProject1\bin\Debug\netcoreapp3.1\GitProject1.pdb
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.AssemblyInfoInputs.cache
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.AssemblyInfo.cs
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.csproj.CoreCompileInputs.cache
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.dll
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.pdb
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.genruntimeconfig.cache
+E:\GitRep\GitProject1\obj\Debug\netcoreapp3.1\GitProject1.csproj.AssemblyReference.cache
